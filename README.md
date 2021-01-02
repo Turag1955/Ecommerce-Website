@@ -1,4 +1,4 @@
-<h3>Ecommerce website using php,javasrcipt,jquery,ajax </h3>
+<h3>Ecommerce website using Php, Javasrcipt, Jquery, Ajax </h3>
 
    Features
 ------------------------
